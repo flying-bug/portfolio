@@ -1,0 +1,13 @@
+name = "cv-chat"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# URL công khai của cv.json trên GitHub Pages
+CV_URL = "https://your-username.github.io/cv.json"
+# Chỉ trang này được gọi chatbot (CORS). Có thể liệt kê nhiều, cách nhau bằng dấu phẩy.
+ALLOWED_ORIGINS = "https://your-username.github.io,http://localhost:5173"
+MODEL = "claude-opus-5-5"
+
+# Secret (không ghi vào file):  npx wrangler secret put ANTHROPIC_API_KEY
