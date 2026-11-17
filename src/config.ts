@@ -1,6 +1,6 @@
 // Khi build trên GitHub Actions, VITE_GITHUB_REPO = "owner/repo" được điền tự động.
 // Khi chạy local, đặt trong file .env.local (xem .env.example).
-export const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || 'your-username/your-username.github.io';
+export const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || 'flying-bug/portfolio.github.io';
 
 const [owner] = GITHUB_REPO.split('/');
 
