@@ -35,8 +35,8 @@
   "experience": [
     {
       "id": "j1",
-      "company": "[Tên công ty A]",
-      "role": "Full-stack Developer",
+      "company": "FPT Software",
+      "role": "Backend Developer",
       "start": "[MM/YYYY]",
       "end": "",
       "current": true,
@@ -113,5 +113,5 @@
       "answer": "[Có / Không — ưu tiên hình thức nào.]"
     }
   ],
-  "updatedAt": "2026-11-17T03:36:21.323Z"
+  "updatedAt": "2026-11-17T03:37:49.109Z"
 }
