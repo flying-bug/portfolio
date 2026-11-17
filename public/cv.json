@@ -13,14 +13,24 @@
     "cvPdfUrl": ""
   },
   "skills": [
-    { "id": "s1", "name": "React / Next.js", "group": "Frontend", "level": 5 },
-    { "id": "s2", "name": "TypeScript", "group": "Frontend", "level": 4 },
-    { "id": "s3", "name": "Tailwind CSS", "group": "Frontend", "level": 4 },
-    { "id": "s4", "name": "Node.js / NestJS", "group": "Backend", "level": 4 },
-    { "id": "s5", "name": "PostgreSQL", "group": "Backend", "level": 4 },
-    { "id": "s6", "name": "REST / GraphQL", "group": "Backend", "level": 4 },
-    { "id": "s7", "name": "Git / GitHub Actions", "group": "DevOps & Tools", "level": 5 },
-    { "id": "s8", "name": "Docker", "group": "DevOps & Tools", "level": 4 }
+    {
+      "id": "s5",
+      "name": "PostgreSQL",
+      "group": "Backend",
+      "level": 4
+    },
+    {
+      "id": "s7",
+      "name": "Git / GitHub Actions",
+      "group": "DevOps & Tools",
+      "level": 5
+    },
+    {
+      "id": "s8",
+      "name": "Docker",
+      "group": "DevOps & Tools",
+      "level": 4
+    }
   ],
   "experience": [
     {
@@ -34,7 +44,11 @@
         "[Thành tựu chính — ví dụ: xây dựng tính năng X phục vụ Y người dùng]",
         "[Trách nhiệm hoặc kết quả đo lường được]"
       ],
-      "tech": ["React", "NestJS", "PostgreSQL"]
+      "tech": [
+        "React",
+        "NestJS",
+        "PostgreSQL"
+      ]
     },
     {
       "id": "j2",
@@ -43,8 +57,13 @@
       "start": "[MM/YYYY]",
       "end": "[MM/YYYY]",
       "current": false,
-      "highlights": ["[Thành tựu chính tại công ty B]"],
-      "tech": ["Vue.js", "TypeScript"]
+      "highlights": [
+        "[Thành tựu chính tại công ty B]"
+      ],
+      "tech": [
+        "Vue.js",
+        "TypeScript"
+      ]
     }
   ],
   "projects": [
@@ -52,7 +71,12 @@
       "id": "p1",
       "name": "CV Portfolio + AI Chatbot",
       "description": "Chính trang web này: CV cập nhật qua trang Admin (chỉ chủ repo GitHub được sửa), deploy trên GitHub Pages, có chatbot trả lời câu hỏi của nhà tuyển dụng.",
-      "tech": ["React", "TypeScript", "GitHub Pages", "Claude API"],
+      "tech": [
+        "React",
+        "TypeScript",
+        "GitHub Pages",
+        "Claude API"
+      ],
       "repoUrl": "",
       "demoUrl": "",
       "imageUrl": "",
@@ -62,7 +86,10 @@
       "id": "p2",
       "name": "[Tên dự án 2]",
       "description": "[Mô tả ngắn: vấn đề giải quyết, vai trò của bạn và kết quả.]",
-      "tech": ["[Tech 1]", "[Tech 2]"],
+      "tech": [
+        "[Tech 1]",
+        "[Tech 2]"
+      ],
       "repoUrl": "",
       "demoUrl": "",
       "imageUrl": "",
@@ -70,9 +97,21 @@
     }
   ],
   "faq": [
-    { "id": "f1", "question": "Bạn có thể bắt đầu làm việc khi nào?", "answer": "[Sau X tuần kể từ khi nhận offer.]" },
-    { "id": "f2", "question": "Mức lương mong muốn của bạn là bao nhiêu?", "answer": "Phần này mình muốn trao đổi trực tiếp — bạn vui lòng liên hệ qua email nhé." },
-    { "id": "f3", "question": "Bạn có làm việc remote không?", "answer": "[Có / Không — ưu tiên hình thức nào.]" }
+    {
+      "id": "f1",
+      "question": "Bạn có thể bắt đầu làm việc khi nào?",
+      "answer": "[Sau X tuần kể từ khi nhận offer.]"
+    },
+    {
+      "id": "f2",
+      "question": "Mức lương mong muốn của bạn là bao nhiêu?",
+      "answer": "Phần này mình muốn trao đổi trực tiếp — bạn vui lòng liên hệ qua email nhé."
+    },
+    {
+      "id": "f3",
+      "question": "Bạn có làm việc remote không?",
+      "answer": "[Có / Không — ưu tiên hình thức nào.]"
+    }
   ],
-  "updatedAt": "2026-11-09T00:00:00.000Z"
+  "updatedAt": "2026-11-17T03:36:21.323Z"
 }
